@@ -8,6 +8,6 @@ blog({
   background: "#f5f5f5",
   links: [
     { title: 'gwenbell.com', url: 'mailto:gwen@gwenbell.com'},
-    { title: 'Bogbook', url: 'https://denobook.com/#GBc4e5UsolZ9bABRaZkot34hWsKYwlNrdRvAETQJfOU='} 
+    { title: 'Denobook', url: 'https://denobook.com/#GBc4e5UsolZ9bABRaZkot34hWsKYwlNrdRvAETQJfOU='} 
   ]
 })
