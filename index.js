@@ -2,12 +2,12 @@ import { blog } from 'https://raw.githubusercontent.com/evbogue/denoblog/master/
 
 blog({
   title: "Gwen Bell's Blog",
-  avatar: 'https://avatars.githubusercontent.com/u/2355172?s=400&v=4',
+  avatar: './gb.jpg',
   author: 'Gwen Bell',
   description: "Writer.",
   background: "#f5f5f5",
   links: [
-    { title: 'gwenbell.com', url: 'mailto:gwen@gwenbell.com'},
+    { title: 'gwen@gwenbell.com', url: 'mailto:gwen@gwenbell.com'},
     { title: 'Denobook', url: 'https://denobook.com/#GBc4e5UsolZ9bABRaZkot34hWsKYwlNrdRvAETQJfOU='} 
   ]
 })
