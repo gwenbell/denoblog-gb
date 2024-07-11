@@ -27,7 +27,7 @@ const html = `
   <body>
     <h1>Gwen Bell</h1>
     <p>Hi! You've found Gwen Bell's website.</p><p>Contact me via email: <a
-href='mailto:bellgwen42@gmail.com'>bellgwen42@gmail.com</a> or visit <a href='https://bogbook.com/#GUG82El9nFQ0ItlCMrVm5ESi6f08/iEqg1VaIKCpiNs=)'>my Bogbook</a>.
+href='mailto:bellgwen42@gmail.com'>bellgwen42@gmail.com</a> or visit <a href='https://bogbook.com/#GUG82El9nFQ0ItlCMrVm5ESi6f08/iEqg1VaIKCpiNs='>my Bogbook</a>.
     </p>
     
   </body>
